@@ -1,0 +1,4 @@
+/Users/terlanismayilsoy/.m2/repository/com/mobidevelop/robovm/robovm-objc/2.3.20/robovm-objc-2.3.20.jar
+/Users/terlanismayilsoy/.m2/repository/com/mobidevelop/robovm/robovm-cocoatouch/2.3.20/robovm-cocoatouch-2.3.20.jar
+/Users/terlanismayilsoy/Documents/Programming/Projects/Java/MobiVMDemo/target/classes/com/mycompany/myframework/DemoClass.class
+/Users/terlanismayilsoy/.m2/repository/com/mobidevelop/robovm/robovm-dist/2.3.20/unpacked/robovm-2.3.20/lib/robovm-rt.jar

@@ -1,0 +1,5 @@
+_JNI_*
+_rvmInstantiateFramework
+_rvmInitializeFrameworkWithJVM
+_OBJC_CLASS_$_*
+_JNI_OnLoad_*
